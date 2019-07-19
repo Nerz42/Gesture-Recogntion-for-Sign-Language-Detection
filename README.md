@@ -1,5 +1,5 @@
 # Gesture-Recogntion-for-Sign-Language-Detection
-## A Gesture Recognition system that can understand and classify sign language gestures, to simplify the lives of the deaf and dumb.
+#### A Gesture Recognition system that can understand and classify sign language gestures, to simplify the lives of the deaf and dumb.
 -----
 ### Packages used:
 - OpenCV 4.0.1
